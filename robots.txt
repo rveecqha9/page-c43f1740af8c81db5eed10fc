@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bb404a392c.tzzudzb.cn/sitemap.xml
